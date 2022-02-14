@@ -1,0 +1,41 @@
+.link {
+    font-size: 38px;
+    font-family:Georgia ;
+    text-align: center;
+
+}
+
+.title {
+    color: darkcyan;
+    font-size: 120px;
+    font-family:"Brush Script MT" ;
+    text-align: center;
+}
+.link.spice {
+    
+    color: saddlebrown;
+    
+}
+.link.rice {
+    color: papayawhip;
+    
+}
+.link.straw {
+    color: hotpink;
+
+}
+img {
+    height: auto;
+    width: 530px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.ul {
+    text-align: center;
+}
+.ul > ul {
+    display: inline-block;
+}
+
