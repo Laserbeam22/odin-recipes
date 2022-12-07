@@ -1,4 +1,4 @@
-.link {
+.spice, .rice, .straw {
     font-size: 38px;
     font-family:Georgia ;
     text-align: center;
@@ -11,16 +11,16 @@
     font-family:"Brush Script MT" ;
     text-align: center;
 }
-.link.spice {
+.spice {
     
     color: saddlebrown;
     
 }
-.link.rice {
+.rice {
     color: papayawhip;
     
 }
-.link.straw {
+.straw {
     color: hotpink;
 
 }
