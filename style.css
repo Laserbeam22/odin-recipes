@@ -1,41 +1,54 @@
-.spice, .rice, .straw {
-    font-size: 38px;
-    font-family:Georgia ;
-    text-align: center;
+/* all pages */
 
-}
-
-.title {
-    color: darkcyan;
-    font-size: 120px;
-    font-family:"Brush Script MT" ;
-    text-align: center;
-}
-.spice {
-    
-    color: saddlebrown;
-    
-}
-.rice {
-    color: papayawhip;
-    
-}
-.straw {
-    color: hotpink;
-
-}
 img {
     height: auto;
     width: 530px;
     display: block;
     margin-left: auto;
     margin-right: auto;
-
 }
+
+/* index page */
+
+.title {
+    color: darkcyan;
+    font-size: 120px;
+    font-family: "Brush Script MT";
+    text-align: center;
+}
+
+.spice, .rice, .straw {
+    font-size: 38px;
+    font-family: Georgia;
+    text-align: center;
+}
+
+.spice {
+    color: saddlebrown;
+}
+
+.rice {
+    color: papayawhip;
+}
+
+.straw {
+    color: hotpink;
+}
+
 .ul {
     text-align: center;
 }
+
 .ul > ul {
     display: inline-block;
 }
 
+/* spicy noddle page */
+
+
+
+/* rice krispie page */
+
+
+
+/* strawberry jello page */
