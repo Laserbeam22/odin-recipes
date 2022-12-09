@@ -28,6 +28,10 @@ p {
     padding: .8em;
 }
 
+ol {
+    width: 35vw;
+}
+
 /* index page */
 
 .title {
