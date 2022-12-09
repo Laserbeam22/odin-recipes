@@ -62,3 +62,10 @@ img {
 }
 
 /* strawberry jello page */
+
+.straw-header {
+    color: hotpink;
+    font-size: 120px;
+    font-family: "Brush Script MT";
+    text-align: center;
+}
