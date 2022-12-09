@@ -45,7 +45,12 @@ img {
 
 /* spicy noddle page */
 
-
+.spice-header {
+    color: saddlebrown;
+    font-size: 120px;
+    font-family: "Brush Script MT";
+    text-align: center;
+}
 
 /* rice krispie page */
 
