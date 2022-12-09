@@ -22,6 +22,12 @@ body {
     align-items: center;
 }
 
+p {
+    text-align: center;
+    width: 35vw;
+    padding: .8em;
+}
+
 /* index page */
 
 .title {
