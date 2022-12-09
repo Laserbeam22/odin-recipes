@@ -59,14 +59,6 @@ ol {
     color: hotpink;
 }
 
-.ul {
-    text-align: center;
-}
-
-.ul > ul {
-    display: inline-block;
-}
-
 /* spicy noddle page */
 
 .spice-header {
