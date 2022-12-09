@@ -54,6 +54,11 @@ img {
 
 /* rice krispie page */
 
-
+.rice-header {
+    color: papayawhip;
+    font-size: 120px;
+    font-family: "Brush Script MT";
+    text-align: center;
+}
 
 /* strawberry jello page */
