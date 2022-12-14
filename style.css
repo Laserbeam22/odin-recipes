@@ -41,6 +41,10 @@ ol {
     text-align: center;
 }
 
+[src*="odin"] {
+    margin: 6rem;
+}
+
 .spice, .rice, .straw {
     font-size: 38px;
     font-family: Georgia;
