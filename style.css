@@ -65,6 +65,10 @@ ol {
 
 /* spicy noddle page */
 
+img[src*='peanut'] {
+    width: 20vw;
+}
+
 .spice-header {
     color: saddlebrown;
     font-size: 5rem;
