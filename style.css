@@ -77,6 +77,10 @@ img[src*='peanut'] {
     margin: 1.5vh;
 }
 
+img[src*='peanut']~h2 {
+    margin-top: 3.5vh;
+}
+
 /* rice krispie page */
 
 .rice-header {
