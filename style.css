@@ -36,6 +36,11 @@ h3 {
     margin-top: 5vh;
 }
 
+button {
+    margin-top: 1vh;
+    padding: .2vh .5vw;
+}
+
 /* index page */
 
 .title {
