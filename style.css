@@ -43,6 +43,10 @@ button {
     border: solid 1px black;
 }
 
+a {
+    text-decoration: none;
+}
+
 /* index page */
 
 .title {
