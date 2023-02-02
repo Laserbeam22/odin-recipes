@@ -26,6 +26,7 @@ p {
     text-align: center;
     width: 35vw;
     padding: .8em;
+    min-width: 250px;
 }
 
 ol {
