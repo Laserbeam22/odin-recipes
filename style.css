@@ -109,6 +109,10 @@ img[src*='peanut'] {
     margin: 1.5vh;
 }
 
+img[src*='Rice'] {
+    margin-bottom: .9rem;
+}
+
 /* strawberry jello page */
 
 .straw-header {
