@@ -40,6 +40,11 @@ h2 {
     text-align: center;
 }
 
+.ingredients {
+    background-color: #ffeeda;
+    padding: 0 2rem 1.5rem 2rem;
+}
+
 div.bottom {
     margin: 2rem;
 }
