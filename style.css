@@ -146,6 +146,14 @@ img[src*='Rice'] {
     margin-bottom: .9rem;
 }
 
+.rice-para {
+    background-color: #ffeeda;
+    padding: .8rem 1.5rem 1rem 1.5rem;
+    border: solid #ffeeda;
+    border-radius: 30px;
+    margin-top: 2rem;
+}
+
 /* strawberry jello page */
 
 .straw-header {
