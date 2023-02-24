@@ -172,6 +172,14 @@ img[src*='Rice'] {
     margin-top: 2rem;
 }
 
+.straw-ingredients {
+    background-color: #ffe6ea;
+    padding: 0 2rem 1.5rem 2rem;
+    border: solid #ffe6ea;
+    border-radius: 30px;
+    margin-top: 2rem;
+}
+
 img[src*='straw'] {
     margin-bottom: .9rem;
 }
