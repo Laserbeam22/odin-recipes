@@ -101,7 +101,7 @@ a {
     color: saddlebrown;
 }
 
-.rice {
+.rice, .rice > a:visited {
     color: papayawhip;
 }
 
