@@ -85,6 +85,12 @@ a {
     margin: 6rem;
 }
 
+.index-ul {
+    background-color: #d0d8e6;
+    padding: 20px 50px;
+    border-radius: 15px;
+}
+
 .spice, .rice, .straw {
     font-size: 38px;
     font-family: Georgia;
