@@ -97,7 +97,7 @@ a {
     text-align: center;
 }
 
-.spice {
+.spice, .spice > a:visited {
     color: saddlebrown;
 }
 
