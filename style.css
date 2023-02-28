@@ -23,7 +23,7 @@ body {
 }
 
 p {
-    text-align: center;
+    text-align: justify;
     width: 35vw;
     padding: .8em;
     min-width: 400px;
