@@ -24,6 +24,7 @@ body {
 
 p {
     text-align: justify;
+    text-indent: 40px;
     width: 35vw;
     padding: .8em;
     min-width: 400px;
