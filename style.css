@@ -69,6 +69,10 @@ div.bottom {
     text-align: center;
 }
 
+h3 {
+    font-family: norse;
+}
+
 button {
     margin-top: 1vh;
     padding: .5vh .8vw;
