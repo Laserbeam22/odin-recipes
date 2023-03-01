@@ -110,6 +110,7 @@ a {
 .spice, .rice, .straw {
     font-size: 38px;
     text-align: center;
+    letter-spacing: 3px;
 }
 
 .spice, .spice > a:visited {
