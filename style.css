@@ -79,6 +79,7 @@ button {
     padding: .5vh .8vw;
     border-radius: 5px;
     border: solid 1px black;
+    letter-spacing: 1px;
 }
 
 a {
