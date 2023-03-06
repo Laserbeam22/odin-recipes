@@ -88,6 +88,11 @@ button > a:visited {
     color: darkcyan;
 }
 
+button:hover {
+    border: solid 3px darkcyan;
+    font-size: 16px;
+}
+
 a {
     text-decoration: none;
     font-family: norse;
