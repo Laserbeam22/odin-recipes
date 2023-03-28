@@ -146,6 +146,10 @@ a {
 
 /* spicy noddle page */
 
+.spice-btn {
+    font-size: 20px;
+}
+
 img[src*='peanut'] {
     width: 20vw;
 }
