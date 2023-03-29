@@ -150,6 +150,10 @@ a {
     font-size: 20px;
 }
 
+.spice-btn:hover {
+    font-size: 22px;
+}
+
 img[src*='peanut'] {
     width: 20vw;
 }
