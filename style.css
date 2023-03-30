@@ -184,6 +184,10 @@ img[src*='peanut'] {
 
 /* rice krispie page */
 
+.rice-btn {
+    font-size: 20px;
+}
+
 .rice-header {
     color: papayawhip;
     font-size: 6rem;
