@@ -188,6 +188,10 @@ img[src*='peanut'] {
     font-size: 20px;
 }
 
+.rice-btn:hover {
+    font-size: 22px;
+}
+
 .rice-header {
     color: papayawhip;
     font-size: 6rem;
