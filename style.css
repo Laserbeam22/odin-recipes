@@ -214,6 +214,10 @@ img[src*='Rice'] {
 
 /* strawberry jello page */
 
+.straw-btn {
+    font-size: 20px;
+}
+
 .straw-header {
     color: hotpink;
     font-size: 5rem;
