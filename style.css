@@ -218,6 +218,10 @@ img[src*='Rice'] {
     font-size: 20px;
 }
 
+.straw-btn:hover {
+    font-size: 22px;
+}
+
 .straw-header {
     color: hotpink;
     font-size: 5rem;
