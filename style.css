@@ -149,6 +149,7 @@ a {
 .spice-btn {
     font-size: 20px;
     align-self: flex-start;
+    margin: 15px;
 }
 
 .spice-btn:hover {
