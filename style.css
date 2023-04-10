@@ -188,6 +188,7 @@ img[src*='peanut'] {
 
 .rice-btn {
     font-size: 20px;
+    align-self: flex-start;
 }
 
 .rice-btn:hover {
