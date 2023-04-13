@@ -220,6 +220,7 @@ img[src*='Rice'] {
 
 .straw-btn {
     font-size: 20px;
+    align-self: flex-start;
 }
 
 .straw-btn:hover {
