@@ -146,7 +146,7 @@ a {
 
 /* spicy noddle page */
 
-.spice-btn {
+[class*="spice-btn"] {
     font-size: 20px;
     align-self: flex-start;
     margin: 15px;
