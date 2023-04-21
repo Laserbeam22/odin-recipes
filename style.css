@@ -152,7 +152,7 @@ a {
     margin: 15px;
 }
 
-.spice-btn:hover {
+[class*="spice-btn"]:hover {
     font-size: 22px;
 }
 
