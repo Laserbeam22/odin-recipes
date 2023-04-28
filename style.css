@@ -186,7 +186,7 @@ img[src*='peanut'] {
 
 /* rice krispie page */
 
-.rice-btn {
+[class*="rice-btn"] {
     font-size: 20px;
     align-self: flex-start;
     margin: 15px;
