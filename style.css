@@ -218,7 +218,7 @@ img[src*='Rice'] {
 
 /* strawberry jello page */
 
-.straw-btn {
+[class*=straw-btn] {
     font-size: 20px;
     align-self: flex-start;
     margin: 15px;
