@@ -224,7 +224,7 @@ img[src*='Rice'] {
     margin: 15px;
 }
 
-.straw-btn:hover {
+[class*=straw-btn]:hover {
     font-size: 22px;
 }
 
