@@ -146,6 +146,10 @@ a {
 
 /* spicy noddle page */
 
+.spice-menu {
+    background-color: #ffefda;
+}
+
 [class*="spice-btn"] {
     font-size: 20px;
     align-self: flex-start;
