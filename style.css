@@ -149,6 +149,7 @@ a {
 .spice-menu {
     background-color: #ffefda;
     width: 100vw;
+    padding: 18px;
 }
 
 [class*="spice-btn"] {
