@@ -150,6 +150,7 @@ a {
     background-color: #ffefda;
     width: 100vw;
     padding: 18px;
+    display: grid;
 }
 
 [class*="spice-btn"] {
