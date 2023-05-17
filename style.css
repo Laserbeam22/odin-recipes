@@ -151,6 +151,7 @@ a {
     width: 100vw;
     padding: 18px;
     display: grid;
+    grid-auto-flow: column;
 }
 
 [class*="spice-btn"] {
