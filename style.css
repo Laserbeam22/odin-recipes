@@ -152,6 +152,7 @@ a {
     padding: 18px;
     display: grid;
     grid-auto-flow: column;
+    justify-content: center;
 }
 
 [class*="spice-btn"] {
