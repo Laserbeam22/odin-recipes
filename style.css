@@ -194,6 +194,10 @@ img[src*='peanut'] {
 
 /* rice krispie page */
 
+.rice-menu {
+    background-color: papayawhip;
+}
+
 [class*="rice-btn"] {
     font-size: 20px;
     align-self: flex-start;
