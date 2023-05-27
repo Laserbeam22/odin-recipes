@@ -198,6 +198,7 @@ img[src*='peanut'] {
     background-color: papayawhip;
     width: 100vw;
     padding: 18px;
+    display: grid;
 }
 
 [class*="rice-btn"] {
