@@ -200,6 +200,7 @@ img[src*='peanut'] {
     padding: 18px;
     display: grid;
     grid-auto-flow: column;
+    justify-content: center;
 }
 
 [class*="rice-btn"] {
