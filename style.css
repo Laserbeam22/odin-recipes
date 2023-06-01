@@ -205,7 +205,6 @@ img[src*='peanut'] {
 
 [class*="rice-btn"] {
     font-size: 20px;
-    align-self: flex-start;
     margin: 15px;
 }
 
