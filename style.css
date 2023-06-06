@@ -234,6 +234,10 @@ img[src*='Rice'] {
 
 /* strawberry jello page */
 
+.straw-menu {
+    background-color: #ffe6ea;
+}
+
 [class*=straw-btn] {
     font-size: 20px;
     align-self: flex-start;
