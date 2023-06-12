@@ -237,6 +237,7 @@ img[src*='Rice'] {
 .straw-menu {
     background-color: #ffe6ea;
     width: 100vw;
+    padding: 18px;
 }
 
 [class*=straw-btn] {
