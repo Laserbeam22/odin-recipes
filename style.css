@@ -238,6 +238,7 @@ img[src*='Rice'] {
     background-color: #ffe6ea;
     width: 100vw;
     padding: 18px;
+    display: grid;
 }
 
 [class*=straw-btn] {
