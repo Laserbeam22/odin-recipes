@@ -240,6 +240,7 @@ img[src*='Rice'] {
     padding: 18px;
     display: grid;
     grid-auto-flow: column;
+    justify-content: center;
 }
 
 [class*=straw-btn] {
