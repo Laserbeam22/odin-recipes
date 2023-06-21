@@ -153,6 +153,7 @@ a {
     display: grid;
     grid-auto-flow: column;
     justify-content: center;
+    min-width: max-content;
 }
 
 [class*="spice-btn"] {
