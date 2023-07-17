@@ -146,6 +146,10 @@ a {
     color: hotpink;
 }
 
+.mac, .mac > a:visited {
+    color: gold;
+}
+
 /* spicy noddle page */
 
 .spice-menu {
