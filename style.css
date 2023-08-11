@@ -94,6 +94,7 @@ button > a:visited {
 button:hover {
     border: solid 3px darkcyan;
     font-size: 16px;
+    cursor: pointer;
 }
 
 a {
