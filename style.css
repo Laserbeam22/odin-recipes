@@ -107,6 +107,12 @@ a {
     font-family: norse;
 }
 
+#newBtn:hover {
+    border: solid 3px darkcyan;
+    font-size: 16px;
+    cursor: pointer;
+}
+
 /* index page */
 
 .index-container {
