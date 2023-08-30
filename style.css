@@ -120,6 +120,10 @@ a {
     font-family: norse;
 }
 
+.menu-btn:hover {
+    font-size: 22px;
+}
+
 /* index page */
 
 .index-container {
