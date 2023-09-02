@@ -107,7 +107,7 @@ a {
     font-family: norse;
 }
 
-#newBtn:hover {
+.bottom-btn:hover {
     border: solid 3px darkcyan;
     font-size: 16px;
     cursor: pointer;
