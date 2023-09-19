@@ -186,10 +186,6 @@ a {
     box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
 }
 
-[class*="spice-btn"]:hover {
-    font-size: 22px;
-}
-
 img[src*='peanut'] {
     width: 20vw;
 }
