@@ -228,11 +228,6 @@ img[src*='peanut'] {
     box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
 }
 
-[class*="rice-btn"] {
-    font-size: 20px;
-    margin: 15px;
-}
-
 [class*="rice-btn"]:hover {
     font-size: 22px;
 }
