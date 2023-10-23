@@ -262,10 +262,6 @@ img[src*='Rice'] {
     box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
 }
 
-[class*=straw-btn]:hover {
-    font-size: 22px;
-}
-
 .straw-header {
     color: hotpink;
     font-size: 5rem;
