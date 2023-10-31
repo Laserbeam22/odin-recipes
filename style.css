@@ -307,4 +307,5 @@ img[src*='straw'] {
     background-color: #f8e5c3;
     width: 100vw;
     padding: 18px;
+    display: grid;
 }
