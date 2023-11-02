@@ -309,4 +309,5 @@ img[src*='straw'] {
     padding: 18px;
     display: grid;
     grid-auto-flow: column;
+    justify-content: center;
 }
