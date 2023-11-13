@@ -320,3 +320,7 @@ img[src*='straw'] {
     font-size: 6rem;
     margin: 45px 0 25px;
 }
+
+.mac-para {
+    background-color: #ffecca;
+}
