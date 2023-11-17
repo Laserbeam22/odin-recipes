@@ -325,4 +325,5 @@ img[src*='straw'] {
     background-color: #ffecca;
     padding: 0 2rem 1.5rem 2rem;
     border-radius: 30px;
+    margin-top: 3rem;
 }
