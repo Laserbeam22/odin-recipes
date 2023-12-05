@@ -173,7 +173,7 @@ a {
     color: gold;
 }
 
-.picCredit {
+.picCredit, .picCredit > a:visited {
     margin: -2vh;
     color: #0d9a95;
 }
