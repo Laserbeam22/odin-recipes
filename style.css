@@ -191,7 +191,7 @@ a {
 }
 
 img[src*='peanut'] {
-    width: 20vw;
+    width: clamp(260px, 20vw, 400px);
 }
 
 .spice-header {
