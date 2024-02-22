@@ -216,6 +216,7 @@ img[src*='peanut'] {
 .spice-para > h2 {
     text-align: center;
     padding: 0 .5rem;
+    width: 37vw;
 }
 
 /* rice krispie page */
