@@ -239,6 +239,7 @@ img[src*='peanut'] {
 
 img[src*='Rice'] {
     margin-bottom: .9rem;
+    width: clamp(260px, 20vw, 400px);
 }
 
 .rice-para {
