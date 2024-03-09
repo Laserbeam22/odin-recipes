@@ -334,3 +334,7 @@ img[src*='straw'] {
 #mac-ingredients, #mac-steps {
     background-color: #ffecca;
 }
+
+img[alt*='mac'] {
+    width: clamp(260px, 20vw, 400px);
+}
