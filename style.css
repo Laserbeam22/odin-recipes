@@ -126,6 +126,10 @@ input[type=checkbox] {
     display: none;
 }
 
+input[type=checkbox] + label:before {
+    content: "\2714";
+}
+
 
 /* index page */
 
