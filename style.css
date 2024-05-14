@@ -133,6 +133,7 @@ input[type=checkbox] + label:before {
     display: inline-block;
     width: 1em;
     height: 1em;
+    padding-left: 0.4em;
 }
 
 
