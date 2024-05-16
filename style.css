@@ -135,6 +135,7 @@ input[type=checkbox] + label:before {
     height: 1em;
     padding-left: 0.4em;
     padding-bottom: 0.2em;
+    margin-right: 1em;
 }
 
 
