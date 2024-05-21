@@ -140,6 +140,10 @@ input[type=checkbox] + label:before {
     color: transparent;
 }
 
+input[type=checkbox] + label {
+    display: block;
+}
+
 
 /* index page */
 
