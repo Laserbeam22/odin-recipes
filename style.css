@@ -153,6 +153,10 @@ input[type=checkbox]:checked + label:before {
     color: #ffffff;
 }
 
+input[type=checkbox] + label:active:before {
+    transform: scale(0);
+}
+
 
 /* index page */
 
