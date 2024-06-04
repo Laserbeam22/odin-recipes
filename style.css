@@ -138,6 +138,7 @@ input[type=checkbox] + label:before {
     margin-right: 1em;
     vertical-align: bottom;
     color: transparent;
+    transition: .2s;
 }
 
 input[type=checkbox] + label {
