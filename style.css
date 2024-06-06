@@ -158,6 +158,10 @@ input[type=checkbox] + label:active:before {
     transform: scale(0);
 }
 
+.spice-checkbox {
+    margin-bottom: -22px;
+}
+
 
 /* index page */
 
